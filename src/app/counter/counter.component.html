@@ -1,0 +1,13 @@
+<p>counter works!</p>
+<div>
+<button (click)="increment()">Increment</button><br>
+</div><br>
+<div>
+<button (click)="decrement()">Decrement</button>
+</div><br>
+<div>
+<button (click)="reset()">Reset</button>
+</div><br>
+<div>
+Current Count: {{ count$ | async }}
+</div>

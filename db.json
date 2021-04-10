@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "123",
+      "name": "Manoj",
+      "salary": "33000"
+    },
+    {
+      "id": "128",
+      "name": "Sanjit",
+      "salary": "41000"
+    },
+    {
+      "id": "125",
+      "name": "Prajwal",
+      "salary": "27000"
+    },
+    {
+      "id": "124",
+      "name": "Yash",
+      "salary": "24000"
+    },
+    {
+      "id": "130",
+      "name": "Naresh",
+      "salary": "31000"
+    },
+    {
+      "id": "131",
+      "name": "Rajkumar",
+      "salary": "32000"
+    }
+  ]
+}
